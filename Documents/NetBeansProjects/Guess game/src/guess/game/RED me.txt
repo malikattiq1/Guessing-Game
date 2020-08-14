@@ -1,0 +1,11 @@
+	About the classes that are in the project
+
+first I am going to tell you that I have to take three classes:
+
+main.java
+
+palyer.java
+
+guessgame.java
+
+I put all my code that is responsible for the generation of random number and stuff like that in the class name guess game.java.im made a player class for a player and main class where I just call the function start game(), and the game is started
